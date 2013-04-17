@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks.RailRoad.Domain", "ThoughtWorks.RailRoad.Domain\ThoughtWorks.RailRoad.Domain.csproj", "{1B00745D-AD9C-4C62-AB54-883511D4CFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks.RailRoad.Repositories", "ThoughtWorks.RailRoad.Repositories\ThoughtWorks.RailRoad.Repositories.csproj", "{B9F9817F-8D14-4849-8F7D-CB983B34DC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks.RailRoad.Repositories.Tests.Integration", "ThoughtWorks.RailRoad.Repositories.Tests.Integration\ThoughtWorks.RailRoad.Repositories.Tests.Integration.csproj", "{7053425A-FD76-4F77-9D87-E8C33860C7A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks.RailRoad.Domain.Tests", "ThoughtWorks.RailRoad.Domain.Tests\ThoughtWorks.RailRoad.Domain.Tests.csproj", "{B9F9BAA2-1A3F-4A1B-B575-942968CF86AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtWorks.RailRoad.UI", "ThoughtWorks.RailRoad.UI\ThoughtWorks.RailRoad.UI.csproj", "{823B3BF9-8826-4012-BFB9-F13041E1B255}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C41D07F-BC0B-494B-928B-11CA57FB4AA9}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B00745D-AD9C-4C62-AB54-883511D4CFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B00745D-AD9C-4C62-AB54-883511D4CFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B00745D-AD9C-4C62-AB54-883511D4CFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B00745D-AD9C-4C62-AB54-883511D4CFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F9817F-8D14-4849-8F7D-CB983B34DC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F9817F-8D14-4849-8F7D-CB983B34DC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F9817F-8D14-4849-8F7D-CB983B34DC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F9817F-8D14-4849-8F7D-CB983B34DC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7053425A-FD76-4F77-9D87-E8C33860C7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7053425A-FD76-4F77-9D87-E8C33860C7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7053425A-FD76-4F77-9D87-E8C33860C7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7053425A-FD76-4F77-9D87-E8C33860C7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F9BAA2-1A3F-4A1B-B575-942968CF86AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F9BAA2-1A3F-4A1B-B575-942968CF86AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F9BAA2-1A3F-4A1B-B575-942968CF86AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F9BAA2-1A3F-4A1B-B575-942968CF86AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823B3BF9-8826-4012-BFB9-F13041E1B255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823B3BF9-8826-4012-BFB9-F13041E1B255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823B3BF9-8826-4012-BFB9-F13041E1B255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823B3BF9-8826-4012-BFB9-F13041E1B255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
